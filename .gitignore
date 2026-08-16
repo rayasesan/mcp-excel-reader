@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.log
+sample1.xlsx
+run.bat

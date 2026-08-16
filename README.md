@@ -1,4 +1,4 @@
-# mcp-excel-gratis
+# mcp-excel
 
 MCP server untuk baca file Excel (.xlsx, .xls). Gratis, open source, tanpa API key.
 

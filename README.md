@@ -13,8 +13,8 @@ MCP server untuk baca file Excel (.xlsx, .xls). Gratis, open source, tanpa API k
 ## Install
 
 ```bash
-git clone https://github.com/username/mcp-excel-gratis.git
-cd mcp-excel-gratis
+git clone https://github.com/username/mcp-excel-reader.git
+cd mcp-excel-reader
 npm install
 npm run build
 ```

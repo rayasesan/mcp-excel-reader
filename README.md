@@ -87,9 +87,6 @@ Tambahkan di `claude_desktop_config.json`:
 
 ![Demo](demo.gif)
 
-The MCP server successfully reads Excel workbook data through the `read_excel` tool.
-![MCP Excel Reader Demo](docs/mcp-demo.png)
-
 ## Tech Stack
 
 - TypeScript
